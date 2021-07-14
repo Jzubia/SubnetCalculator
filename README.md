@@ -3,6 +3,10 @@ During my time at my Internship at Computex, I picked up on the concept of subne
 
 I'm including the source code inside of a folder called "IPCalculator".
 
-The full code is available in a single file called "RunCalc", this was used to create the .exe file called "SubnetCalculator.exe".
+The full code is available in a single file called "RunCalc". This was used to create the .exe file called "SubnetCalculator.exe".
 
 The Submask Converter source code is within "MasktoCIDR". The .exe file for this converter is called "SubMaskConv.exe".
+
+All .exe files will be grouped in the "executables" folder.
+
+Enjoyed working on this :)
