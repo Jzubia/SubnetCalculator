@@ -10,3 +10,6 @@ The Submask Converter source code is within "MasktoCIDR". The .exe file for this
 All .exe files will be grouped in the "executables" folder.
 
 Enjoyed working on this :)
+
+**Final Note**
+** If you are using individual files in the "IPCalculator" folder, you'll need to change the file paths when .\ the other scripts. **
