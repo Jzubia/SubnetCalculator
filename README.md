@@ -1,2 +1,8 @@
 # SubnetCalculators
-During my time at my Internship at Computex, I picked up on the concept of subnetting. Inspired by these computations and to get familiar with PowerShell, I decided to create my won Subnet Calculator! (As well as a SubnetMask to CIDR notation calculator)
+During my time at my Internship at Computex, I picked up on the concept of subnetting. Inspired by these computations and to get familiar with PowerShell, I decided to create my own Subnet Calculator! (As well as a SubnetMask to CIDR notation calculator)
+
+I'm including the source code inside of a folder called "IPCalculator".
+
+The full code is available in a single file called "RunCalc", this was used to create the .exe file called "SubnetCalculator.exe".
+
+The Submask Converter source code is within "MasktoCIDR". The .exe file for this converter is called "SubMaskConv.exe".
