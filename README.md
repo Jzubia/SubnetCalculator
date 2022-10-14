@@ -1,4 +1,4 @@
-# SubnetCalculators
+# SubnetCalculator
 During my time at my Internship at Computex, I picked up on the concept of subnetting. Inspired by these computations and to get familiar with PowerShell, I decided to create my own Subnet Calculator! (As well as a SubnetMask to CIDR notation calculator)
 
 I'm including the source code inside of a folder called "IPCalculator".
